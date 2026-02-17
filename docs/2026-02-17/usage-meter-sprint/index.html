@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UsageMeter Sprint — Usage-based billing in 14 days</title>
+  <meta name="description" content="Done-for-you usage metering + Stripe/Chargebee integration so you can ship usage-based pricing without billing chaos." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+  <main class="max-w-3xl mx-auto px-5 py-10">
+    <!-- HERO -->
+    <section class="space-y-4">
+      <div class="text-sm font-semibold text-slate-600">For B2B SaaS teams who want to charge by usage but don’t trust their metering</div>
+      <h1 class="text-3xl sm:text-4xl font-bold tracking-tight">Ship usage-based billing in 14 days (without breaking finance or engineering)</h1>
+      <p class="text-lg text-slate-700">We define 1–3 billable meters, implement an auditable pipeline, and connect it to your billing system — with a 30-day shadow-billing option to prevent bill shock.</p>
+      <div class="flex gap-3 flex-wrap">
+        <a href="https://calendly.com/" class="inline-flex items-center rounded-lg bg-slate-900 px-4 py-2 text-white font-semibold">Book a 15-min fit call</a>
+        <a href="#faq" class="inline-flex items-center rounded-lg border px-4 py-2 font-semibold">See FAQ</a>
+      </div>
+      <div class="text-sm text-slate-600">Least-privilege access. No production creds needed. You approve meter definitions and billing rules before anything ships.</div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- PAIN / BEFORE-AFTER -->
+    <section class="space-y-3">
+      <h2 class="text-2xl font-bold">What this fixes</h2>
+      <p class="text-slate-700">Teams know they’re undercharging power users, but metering is fragile and billing changes are scary. Definitions drift, events go missing, invoices don’t reconcile, and pricing experiments stall because nobody trusts the numbers.</p>
+      <div class="grid sm:grid-cols-2 gap-4">
+        <div class="rounded-lg border p-4">
+          <div class="font-semibold">Before</div>
+          <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>Flat pricing that overcharges small customers and undercharges power users</li><li>A bunch of ad-hoc scripts that nobody trusts</li><li>Invoices that don’t reconcile with product usage</li><li>Fear of customer bill shock and support tickets</li></ul>
+        </div>
+        <div class="rounded-lg border p-4">
+          <div class="font-semibold">After</div>
+          <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>1–3 crisp, documented billable meters (with edge cases)</li><li>Auditable usage pipeline + automated validation checks</li><li>Billing integration for one plan (Stripe/Chargebee/Orb/etc.)</li><li>Optional 30-day shadow billing + caps/alerts to prevent surprises</li></ul>
+        </div>
+      </div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- OFFER -->
+    <section class="space-y-3">
+      <h2 class="text-2xl font-bold">The offer</h2>
+      <p class="text-slate-700">A 14-day implementation sprint to install usage metering and connect it to billing — so you can launch usage-based pricing safely.</p>
+      <div class="rounded-lg bg-slate-50 border p-4">
+        <div class="font-semibold">Included</div>
+        <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>Meter definition workshop + written spec (inputs, filters, edge cases)</li><li>Event schema + ingestion path (logs/CDC/events → warehouse)</li><li>Daily aggregation job + 60–90 day backfill (where data exists)</li><li>Reconciliation checks (sample invoices vs computed usage)</li><li>Billing integration for one plan (usage records → invoice)</li><li>Customer-facing usage page wireframe + alerting recommendations</li><li>Runbook + handoff docs</li></ul>
+        <div class="mt-4 font-semibold">Not included (by design)</div>
+        <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>Full pricing strategy / packaging consulting (we can refer partners)</li><li>Supporting every data stack (we scope to a small supported set)</li><li>Guaranteeing revenue lift (we guarantee deliverables + correctness checks)</li></ul>
+      </div>
+
+      <div class="mt-5 rounded-lg border p-4">
+        <div class="font-semibold">How it works</div>
+        <ol class="mt-2 list-decimal pl-5 text-slate-700 space-y-1"><li>15-min fit call (stack + goals + meter candidates)</li><li>Day 1–2: define meters + acceptance tests + shadow-billing plan</li><li>Day 3–9: implement ingestion + aggregation + backfill + validation</li><li>Day 10–12: billing integration + reconciliation + dashboards</li><li>Day 13–14: handoff, runbook, and production rollout plan</li></ol>
+      </div>
+
+      <div class="mt-5 flex gap-3 flex-wrap">
+        <a href="https://calendly.com/" class="inline-flex items-center rounded-lg bg-slate-900 px-4 py-2 text-white font-semibold">Book a 15-min fit call</a>
+        <a href="mailto:hello@yourdomain.com?subject=UsageMeter%20template" class="inline-flex items-center rounded-lg border px-4 py-2 font-semibold">Get a sample meter definition template</a>
+      </div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- PRICING -->
+    <section class="space-y-3">
+      <h2 class="text-2xl font-bold">Pricing</h2>
+      <div class="rounded-lg border p-5">
+        <div class="text-xl font-bold">$7,500–$15,000 setup + optional $750–$2,000/mo monitoring</div>
+        <div class="mt-2 text-slate-700">Price depends on number of meters (1–3), data sources, and billing system. Starter engagement: 1 meter + Stripe Billing integration.</div>
+        <div class="mt-3 text-slate-700">Deliverable guarantee: if we can’t ship the agreed meter pipeline + a working billing export/integration, you don’t pay the final milestone.</div>
+        <div class="mt-5">
+          <a href="https://calendly.com/" class="inline-flex items-center rounded-lg bg-slate-900 px-4 py-2 text-white font-semibold">Book a 15-min fit call</a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- FAQ -->
+    <section id="faq" class="space-y-3">
+      <h2 class="text-2xl font-bold">FAQ</h2>
+      <div class="rounded-lg border p-4">
+<div class="font-semibold">Will customers get surprised by higher bills?</div>
+<div class="mt-2 text-slate-700">We recommend 30 days of shadow billing first, plus caps and anomaly alerts. You control when pricing goes live and what guardrails apply.</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">What access do you need?</div>
+<div class="mt-2 text-slate-700">Typically read-only access to billing + a scoped warehouse/project. No production credentials required. We can work via exports if needed.</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">What stacks do you support?</div>
+<div class="mt-2 text-slate-700">Best fit: Postgres/Snowflake/BigQuery + dbt, and Stripe Billing/Chargebee/Orb/Metronome. If you’re bespoke, we’ll scope it explicitly before starting.</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">How fast is onboarding?</div>
+<div class="mt-2 text-slate-700">If you can grant access and identify a meter owner, onboarding is 1–2 days. We’ll send an intake checklist and a meter definition template.</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">How do you handle retention/security?</div>
+<div class="mt-2 text-slate-700">Least-privilege access, access logs, and a retention window by default. We can work under NDA and delete artifacts on request.</div>
+</div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- FOOTER TRUST -->
+    <footer class="text-sm text-slate-600 space-y-2">
+      <div>Not legal/tax advice. You remain responsible for pricing terms; we implement metering and billing mechanics with an audit trail.</div>
+      <div>Contact: <a class="underline" href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></div>
+      <div><a class="underline" href="https://yourdomain.com/privacy">Privacy</a></div>
+    </footer>
+  </main>
+</body>
+</html>
