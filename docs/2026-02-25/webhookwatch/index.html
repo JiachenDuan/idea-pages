@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Webhook Reliability in 14 Days</title>
+  <meta name="description" content="Done-for-you webhook reliability install: retries, dead-letter queue, replay, dashboards, and alerts for B2B SaaS integrations." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+  <main class="max-w-3xl mx-auto px-5 py-10">
+    <!-- HERO -->
+    <section class="space-y-4">
+      <div class="text-sm font-semibold text-slate-600">For B2B SaaS teams relying on Stripe/HubSpot/Shopify/etc. webhooks</div>
+      <h1 class="text-3xl sm:text-4xl font-bold tracking-tight">Stop losing revenue to silent webhook failures</h1>
+      <p class="text-lg text-slate-700">We install verification, idempotency, retries, a dead-letter queue, replay, and alerts in ~14 days — so payments, entitlements, and integrations stay correct.</p>
+      <div class="flex gap-3 flex-wrap">
+        <a href="https://calendly.com/" class="inline-flex items-center rounded-lg bg-slate-900 px-4 py-2 text-white font-semibold">Book a 15-min fit call</a>
+        <a href="#faq" class="inline-flex items-center rounded-lg border px-4 py-2 font-semibold">See FAQ</a>
+      </div>
+      <div class="text-sm text-slate-600">NDA-friendly. Least-privilege access. You approve changes before deploy.</div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- PAIN / BEFORE-AFTER -->
+    <section class="space-y-3">
+      <h2 class="text-2xl font-bold">What this fixes</h2>
+      <p class="text-slate-700">Webhook issues are intermittent, invisible until a customer complains, and expensive when they touch revenue workflows. If you’ve ever had ‘customer paid but didn’t get access’ or ‘refund didn’t downgrade’, you’ve felt it.</p>
+      <div class="grid sm:grid-cols-2 gap-4">
+        <div class="rounded-lg border p-4">
+          <div class="font-semibold">Before</div>
+          <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>A customer pays, but entitlement doesn’t update</li><li>Support pings engineering: ‘integration is flaky’</li><li>You grep logs at midnight with no replay path</li><li>Retries happen ad hoc (or not at all), so incidents repeat</li></ul>
+        </div>
+        <div class="rounded-lg border p-4">
+          <div class="font-semibold">After</div>
+          <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>Verified, idempotent webhook ingestion</li><li>Retries with backoff + safe dedupe</li><li>Dead-letter queue + one-click replay</li><li>Dashboards + alerts for spikes and backlog</li></ul>
+        </div>
+      </div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- OFFER -->
+    <section class="space-y-3">
+      <h2 class="text-2xl font-bold">The offer</h2>
+      <p class="text-slate-700">A focused, done-for-you webhook reliability install (not a full observability project): we harden the pipeline, make failures visible, and give you a safe way to replay missed events.</p>
+      <div class="rounded-lg bg-slate-50 border p-4">
+        <div class="font-semibold">Included</div>
+        <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>Webhook signature verification (provider-specific)</li><li>Idempotency + dedupe strategy (keys + storage)</li><li>Retry policy (backoff, max attempts, poison message handling)</li><li>Dead-letter queue + replay workflow (with guardrails)</li><li>Dashboard: error rate, latency, backlog, top failure reasons</li><li>Alerts to Slack/email on thresholds and anomalies</li><li>Runbook + handoff doc (how to debug + replay safely)</li></ul>
+        <div class="mt-4 font-semibold">Not included (by design)</div>
+        <ul class="mt-2 list-disc pl-5 text-slate-700 space-y-1"><li>General SRE/observability for the whole stack</li><li>Re-architecting your entire event system</li><li>Writing business logic for every downstream integration</li><li>Making reliability claims without measurement</li></ul>
+      </div>
+
+      <div class="mt-5 rounded-lg border p-4">
+        <div class="font-semibold">How it works</div>
+        <ol class="mt-2 list-decimal pl-5 text-slate-700 space-y-1"><li>15-min fit call (we confirm your webhook sources + stack)</li><li>1–2 day audit: map event flow + failure modes + current gaps</li><li>Implementation (days 3–10): verification, retries, DLQ, replay, dashboards</li><li>Hardening (days 11–14): load test, runbook, on-call drill, handoff</li></ol>
+      </div>
+
+      <div class="mt-5 flex gap-3 flex-wrap">
+        <a href="https://calendly.com/" class="inline-flex items-center rounded-lg bg-slate-900 px-4 py-2 text-white font-semibold">Book a 15-min fit call</a>
+        <a href="mailto:hello@yourdomain.com?subject=WebhookWatch%20sample%20deliverables" class="inline-flex items-center rounded-lg border px-4 py-2 font-semibold">See what the deliverables look like</a>
+      </div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- PRICING -->
+    <section class="space-y-3">
+      <h2 class="text-2xl font-bold">Pricing</h2>
+      <div class="rounded-lg border p-5">
+        <div class="text-xl font-bold">$5,000 setup + $750/mo monitoring (starter)</div>
+        <div class="mt-2 text-slate-700">Starter includes 1 app + up to 2 webhook sources (e.g., Stripe + HubSpot). Pro (multi-source + replay UI polish) typically $10k setup + $1.5k/mo. If you want to start small: $300 audit credited toward setup.</div>
+        <div class="mt-3 text-slate-700">Pilot offer: if we can’t identify at least 3 concrete failure modes + fixes in the audit, you don’t pay for the audit.</div>
+        <div class="mt-5">
+          <a href="https://calendly.com/" class="inline-flex items-center rounded-lg bg-slate-900 px-4 py-2 text-white font-semibold">Book a 15-min fit call</a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- FAQ -->
+    <section id="faq" class="space-y-3">
+      <h2 class="text-2xl font-bold">FAQ</h2>
+      <div class="rounded-lg border p-4">
+<div class="font-semibold">What access do you need?</div>
+<div class="mt-2 text-slate-700">Best case: a read-only view of relevant repos + logs + queue metrics. No production credentials. All changes go through your normal PR/review process.</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">What stacks do you support?</div>
+<div class="mt-2 text-slate-700">We start with a narrow set to stay fast: Node/Python services, Postgres, and a queue like SQS/Redis/RabbitMQ. If you’re outside this, we can still scope it on the fit call.</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">How do replays avoid double-charging or double-provisioning?</div>
+<div class="mt-2 text-slate-700">We implement idempotency keys + dedupe storage, and we put replay behind guardrails (batch limits, dry-run where possible, and explicit approvals).</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">How long do you retain data/artifacts?</div>
+<div class="mt-2 text-slate-700">You choose. By default we keep only what’s needed for active work; we can operate with a time-boxed retention window and delete on request.</div>
+</div>
+<div class="rounded-lg border p-4">
+<div class="font-semibold">What do we need to have in place before onboarding?</div>
+<div class="mt-2 text-slate-700">A repo we can PR into, an owner for approvals, and a place to send alerts (Slack/email). If you already have a queue, great — if not, we’ll propose the smallest reliable option.</div>
+</div>
+    </section>
+
+    <hr class="my-10" />
+
+    <!-- FOOTER TRUST -->
+    <footer class="text-sm text-slate-600 space-y-2">
+      <div>We don’t invent business events or rewrite your product. This is a reliability layer + runbook so your existing webhook-driven workflows stay correct.</div>
+      <div>Contact: <a class="underline" href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></div>
+      <div><a class="underline" href="https://yourdomain.com/privacy">Privacy</a></div>
+    </footer>
+  </main>
+</body>
+</html>
