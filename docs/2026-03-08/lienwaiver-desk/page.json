@@ -1,0 +1,79 @@
+{
+  "page_title": "Pay App + Lien Waiver Pack in 24 Hours",
+  "slug": "lienwaiver-desk",
+  "meta_description": "Done-for-you pay apps + lien waivers for subcontractors. Get paid faster with a 24h paperwork SLA.",
+  "for_whom": "For 2\u201330 person subcontractors juggling multiple jobs",
+  "hero_headline": "Get your pay apps + lien waivers submitted in 24h (so checks don\u2019t get stuck)",
+  "hero_subheadline": "We assemble the right pay app packet, generate the correct waiver, submit to the portal/email, and chase rejections until it\u2019s accepted. You approve the numbers; we run the paperwork.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample Pay App Pack (redacted)",
+  "secondary_cta_href": "mailto:hello@yourdomain.com?subject=Sample%20Pay%20App%20Pack",
+  "credibility_line": "NDA-friendly. Least-privilege access. Retention window by default. Not legal advice.",
+  "pain_paragraph": "If your paperwork is wrong, the payment stalls. Office managers re-send the same PDFs, portals reject for tiny issues, and cashflow becomes unpredictable\u2014right when you\u2019re floating payroll and materials.",
+  "before": [
+    "Pay apps get kicked back for missing fields, wrong dates, or the wrong waiver type",
+    "You spend nights scanning, renaming, and hunting for W-9/COI/backup",
+    "Portal requirements change and nobody updates the checklist",
+    "You don\u2019t know what\u2019s pending until someone asks where the check is"
+  ],
+  "after": [
+    "A clean, repeatable Pay App Pack for each job",
+    "Correct waiver type (conditional/unconditional) prepared and routed for approval",
+    "Submissions happen within 24 hours of receiving your invoice inputs",
+    "A weekly \u2018what\u2019s pending / what\u2019s blocking payment\u2019 status report"
+  ],
+  "offer_summary": "LienWaiver Desk is a done-for-you paperwork operator for subcontractors: pay apps, lien waivers, portal submissions, and follow-ups\u2014so you get paid faster and stop losing time to rework.",
+  "included": [
+    "Job setup: collect required forms + portal rules + contacts",
+    "Pay app packet assembly (cover sheet, SOV, invoice, backup docs as required)",
+    "Lien waiver prep (conditional/unconditional) using your job + invoice details",
+    "Submission via email/portal + rejection fixes",
+    "Weekly pending-payments report + blocker list",
+    "Document organization: standardized Drive folder structure"
+  ],
+  "excluded": [
+    "Legal advice or selection of state-specific waiver language (we can use your preferred templates)",
+    "Approving pricing, change orders, or disputed scope (you approve all numbers)",
+    "Collections calls or lien filings"
+  ],
+  "process": [
+    "15-min fit call: volume, portal types, waiver templates, and approval workflow",
+    "Onboarding (1\u20132 days): set up job templates + required docs checklist + folder structure",
+    "For each submission: you send invoice + job info \u2192 we assemble Pay App Pack \u2192 you approve \u2192 we submit",
+    "Follow-up loop: fix rejections, resubmit, and keep a paper trail",
+    "Weekly: send pending report + blockers + next actions"
+  ],
+  "pricing_headline": "Starter from $499/mo",
+  "pricing_details": "Starter: $499/mo (up to 8 submissions). Growth: $999/mo (up to 20). Pro: $1,499/mo (up to 40). Overages: $25/submission. One-time onboarding: $299 (waived for the first 3 pilot slots).",
+  "guarantee_line": "Paperwork SLA: if we don\u2019t submit within 24 business hours of receiving complete inputs, that submission is free.",
+  "faq": [
+    {
+      "q": "Do you need access to our accounting system?",
+      "a": "Not required. We can work from PDFs/CSVs and a shared Drive. If you want, we can use read-only exports from QuickBooks/Xero. We never need bank access."
+    },
+    {
+      "q": "How do you handle security and sensitive financial docs?",
+      "a": "Least-privilege access (a single shared folder + portal login if needed), optional NDA, and a retention window (default: keep only what\u2019s needed for active jobs)."
+    },
+    {
+      "q": "What\u2019s required from us each time?",
+      "a": "Invoice amount + billing period, job name/number, and any required backup docs (timecards, receipts, photos) if your GC requires them. We\u2019ll give you a one-page checklist per customer/portal."
+    },
+    {
+      "q": "Do you choose the waiver type / language?",
+      "a": "We prepare the waiver using your preferred templates and the correct conditional/unconditional flow based on payment status, but we\u2019re not your attorney. If your state/job has special language, we recommend attorney-reviewed templates."
+    },
+    {
+      "q": "How fast is onboarding?",
+      "a": "Usually 60\u201390 minutes of your time and 1\u20132 business days to set up your first job template + folder structure."
+    },
+    {
+      "q": "How do we measure ROI?",
+      "a": "We track rejection rate, average days from \u2018invoice ready\u2019 \u2192 \u2018submitted\u2019, and days-to-acceptance. The goal is fewer kickbacks and faster approvals."
+    }
+  ],
+  "trust_basics_line": "Not legal advice. You approve all amounts and final submissions. We operate the workflow and keep the audit trail.",
+  "contact_email": "hello@yourdomain.com",
+  "privacy_policy_href": "#"
+}
