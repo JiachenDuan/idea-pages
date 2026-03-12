@@ -1,0 +1,73 @@
+{
+  "page_title": "Quarterly Access Review Pack (10 business days)",
+  "slug": "access-review-fast-lane",
+  "meta_description": "Done-for-you quarterly user access reviews (SOC2/ISO-ready) for lean SaaS teams. Inventory, approvals, and an auditor-ready evidence pack.",
+  "for_whom": "For 10\u2013200 person B2B SaaS teams pursuing SOC2/ISO or selling into enterprise",
+  "hero_headline": "Quarterly access reviews done-for-you (without the spreadsheet panic)",
+  "hero_subheadline": "We pull access lists from your core tools, flag risky access, route approvals, and deliver an auditor-ready evidence pack in 10 business days.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "Request a redacted sample evidence pack",
+  "secondary_cta_href": "mailto:hello@yourdomain.com?subject=Redacted%20access%20review%20sample",
+  "credibility_line": "Least-privilege by default. Read-only exports. NDA-friendly. You approve every access change.",
+  "pain_paragraph": "Access reviews are \u2018simple\u2019 until quarter-end: admins scramble for exports, nobody trusts who still has admin, and evidence is inconsistent when a customer or auditor asks. We turn it into a repeatable, defensible workflow.",
+  "before": [
+    "Quarter-end spreadsheet scramble across Slack, Google Drive, and screenshots",
+    "No clean answer to: who has admin, why, and when was it last reviewed?",
+    "Ex-employees and inactive accounts linger with elevated access",
+    "Evidence is hard to audit (and takes days of engineer time)"
+  ],
+  "after": [
+    "Clean access inventory per system with role mapping",
+    "Risk flags (orphaned admins, inactive users, shared accounts)",
+    "Approval trail for keep/remove/downgrade decisions",
+    "Auditor-ready evidence pack + change log + retention policy"
+  ],
+  "offer_summary": "A quarterly \u2018access review pack\u2019 you can hand to auditors and enterprise customers: inventory, decisions, and evidence \u2014 delivered fast with minimal burden on your team.",
+  "included": [
+    "Supported tool exports (pick 5\u20138): Google Workspace, GitHub, Slack, Jira, AWS IAM, GCP IAM, Okta, Datadog (and more by request)",
+    "Access inventory + role mapping (admin vs standard vs service accounts)",
+    "Anomaly detection (inactive users, ex-employees, duplicate identities, orphaned admins)",
+    "Approval routing spreadsheet/workflow: keep / remove / downgrade + owner sign-off",
+    "Deliverable: evidence pack (PDF/Doc + exports) + change log + reviewer attestation"
+  ],
+  "excluded": [
+    "Redesigning your IAM architecture (we can scope as a separate project)",
+    "Making changes without explicit approval",
+    "Continuous monitoring/alerting (available as an add-on after the first review)"
+  ],
+  "process": [
+    "15-min fit call: confirm systems, volume, and compliance requirements",
+    "Onboarding (week 1): access + export setup, naming conventions, reviewer list, and retention policy",
+    "Review run (10 business days): export \u2192 normalize \u2192 flag risks \u2192 route approvals",
+    "Deliver: evidence pack + remediation suggestions + next-quarter checklist"
+  ],
+  "pricing_headline": "$1,000/mo (includes one quarterly review) + $1,500 onboarding",
+  "pricing_details": "Starter includes up to 8 systems and up to 500 identities across those systems. Extra systems: $150 each per review. One-off option: $2,000 per quarterly review.",
+  "guarantee_line": "Time-box guarantee: if we miss 10 business days (once exports are provided), you get 20% off that review.",
+  "faq": [
+    {
+      "q": "What access do you need?",
+      "a": "We prefer read-only exports (CSV/PDF) from each system, provided by your admins, into a dedicated folder. If needed, we can use delegated admin access with least privilege and an access log. No production credentials required."
+    },
+    {
+      "q": "What are the prerequisites for a smooth review?",
+      "a": "A clear owner per system, a list of current employees/contractors, and a decision-maker who can approve removals/downgrades. If you have SSO/IdP (Okta/Google), even better."
+    },
+    {
+      "q": "How does onboarding work and how long does it take?",
+      "a": "Onboarding is usually 60\u201390 minutes total across 1\u20132 calls. We set up the export checklist, folder structure, reviewer list, and approval workflow so future quarters are repeatable."
+    },
+    {
+      "q": "Do you remove access for us?",
+      "a": "Only if you choose an \u2018assisted remediation\u2019 add-on and only after explicit written approval per change. By default, we provide a prioritized remediation list and you execute the changes."
+    },
+    {
+      "q": "What\u2019s your data retention policy?",
+      "a": "Default is 30 days after delivery for working files, with a customer-controlled \u2018evidence archive\u2019 stored in your own Drive. We can shorten retention to 0 days (delete immediately after delivery) on request."
+    }
+  ],
+  "trust_basics_line": "Not legal advice. You remain the source of truth for access and approvals; we operate the workflow and produce defensible documentation.",
+  "contact_email": "hello@yourdomain.com",
+  "privacy_policy_href": "https://yourdomain.com/privacy"
+}
