@@ -1,0 +1,76 @@
+{
+  "page_title": "VulnTriage Desk \u2014 security report triage in 24 hours",
+  "slug": "vulntriage-desk",
+  "meta_description": "Done-for-you security report triage (bug bounty/VDP) with a 24h acknowledgement SLA and a crisp fix plan \u2014 without dragging engineers into inbox chaos.",
+  "for_whom": "For lean B2B SaaS/AI teams (5\u2013150 people) with a public app/API and no dedicated AppSec",
+  "hero_headline": "Every security report gets triaged in 24 hours (without derailing your engineers)",
+  "hero_subheadline": "We run your security inbox: validate reports, reproduce safely, rate severity, open tickets with recommended fixes, and keep reporters informed.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See the triage checklist",
+  "secondary_cta_href": "mailto:hello@yourdomain.com?subject=VulnTriage%20Desk%20%E2%80%94%20sample%20triage%20checklist",
+  "credibility_line": "NDA-friendly. Least-privilege. No production credentials. You approve any customer-facing statements.",
+  "pain_paragraph": "Security reports show up at the worst time: a vague email, a bug bounty claim, or a form submission that might be real. Without a process, you either drop everything or ignore it. Both are expensive.",
+  "before": [
+    "A security email lands and nobody knows who owns it",
+    "Engineers context-switch to reproduce something unclear",
+    "You reply late (or not at all) and trust takes a hit",
+    "No consistent severity rubric or disclosure timeline"
+  ],
+  "after": [
+    "One intake channel + acknowledgement SLA",
+    "Validated repro steps + severity rating + fix recommendation",
+    "Tickets created in your tracker with clear next actions",
+    "Professional reporter comms + disclosure timeline tracking"
+  ],
+  "offer_summary": "A lightweight, done-for-you security report triage desk. We don't run a pentest \u2014 we run the workflow so real issues get handled fast and noise stops stealing engineer time.",
+  "included": [
+    "Security inbox setup (security@ + simple intake form guidance)",
+    "24-hour acknowledgement SLA (business days)",
+    "Triage: reproduce safely, verify impact, assign severity (CVSS-style)",
+    "Deliverable: a ticket with steps to reproduce, impact, and recommended fix options",
+    "Reporter communications: updates, clarification questions, closure notes",
+    "Weekly status snapshot: open reports, SLA hits/misses, next actions",
+    "Retention policy + audit log of actions taken"
+  ],
+  "excluded": [
+    "Full penetration testing or ongoing vulnerability scanning",
+    "Writing new security policies from scratch",
+    "Making claims not supported by evidence",
+    "Production access (we work from least-privilege logs/sandbox inputs you provide)"
+  ],
+  "process": [
+    "Fit call: confirm your stack, intake channels, and preferred ticketing tool",
+    "Onboarding (60\u201390 min total): set intake rules, templates, severity rubric, and escalation paths",
+    "For each report: intake \u2192 validate/repro \u2192 severity + recommended fix \u2192 open ticket \u2192 reporter updates",
+    "Weekly: review patterns, tighten scope rules, and reduce repeat noise"
+  ],
+  "pricing_headline": "$1,000/mo starter + $1,500 onboarding",
+  "pricing_details": "Starter includes up to 6 reports/month. Growth ($2,000/mo) includes up to 20 reports/month. Additional reports: $150 each.",
+  "guarantee_line": "SLA guarantee: if we miss the 24-hour acknowledgement (business days), that report's month is credited $50.",
+  "faq": [
+    {
+      "q": "How do you access our systems safely?",
+      "a": "We operate with least privilege: a shared inbox (or forwarding), a sandbox environment if you have one, and read-only access to whatever artifacts you choose to provide (logs/screenshots). No production credentials. Optional NDA and an access log."
+    },
+    {
+      "q": "What do you need from us to reproduce issues?",
+      "a": "Typically: a staging URL (preferred), a test account, and any relevant logs or feature flags. If staging isn't available, we can still triage impact and craft a fix plan from artifacts \u2014 we just won\u2019t claim a verified repro."
+    },
+    {
+      "q": "How do you handle onboarding?",
+      "a": "We set up (or clean up) the intake channel, define a severity rubric and escalation rules, and create templates for acknowledgement, clarification questions, and closure. Total time from your team is usually 60\u201390 minutes."
+    },
+    {
+      "q": "What\u2019s the retention policy?",
+      "a": "Default is minimal retention: we keep only what\u2019s needed for active triage and the audit log. You can choose a retention window (e.g., 30/90 days) and we\u2019ll delete on request."
+    },
+    {
+      "q": "Will this reduce churn or increase retention?",
+      "a": "Indirectly: fast, professional responses improve trust with security-conscious customers and reduce the chance a real issue lingers. The primary measurable benefit is fewer engineer interruptions + tighter response SLAs."
+    }
+  ],
+  "trust_basics_line": "Not legal advice. We provide best-effort triage and workflow execution; you own final remediation decisions and any public security statements.",
+  "contact_email": "hello@yourdomain.com",
+  "privacy_policy_href": "https://yourdomain.com/privacy"
+}
