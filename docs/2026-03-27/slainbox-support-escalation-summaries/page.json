@@ -1,0 +1,76 @@
+{
+  "page_title": "SLAInbox for B2B SaaS Support Teams",
+  "slug": "slainbox-support-escalation-summaries",
+  "meta_description": "Turn messy customer escalations into clean, owner-ready briefs in 15 minutes so support, engineering, and CS stop re-reading threads.",
+  "for_whom": "For B2B SaaS support teams drowning in messy escalations",
+  "hero_headline": "Turn messy escalations into clean action briefs in 15 minutes",
+  "hero_subheadline": "SLAInbox assembles the ticket, Slack context, Jira notes, and customer thread into one crisp escalation brief with the blocker, owner, next step, and customer-safe summary.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample escalation brief",
+  "secondary_cta_href": "mailto:hello@example.com?subject=SLAInbox%20sample%20brief",
+  "credibility_line": "Least-privilege access. Clear retention window. Human-reviewed summaries.",
+  "pain_paragraph": "Your highest-risk tickets are the ones nobody can summarize quickly. Support has the Zendesk thread, engineering has the Slack side-channel, CS has the angry customer context, and leadership wants an answer now. Instead of resolving the issue, everyone burns time reconstructing what already happened.",
+  "before": [
+    "The ticket is 40 messages deep and still nobody can explain the real blocker",
+    "Engineers reread Slack, Zendesk, and Jira just to catch up",
+    "Customer-facing updates are inconsistent or too technical",
+    "Ownership is fuzzy, so escalations bounce around and age badly"
+  ],
+  "after": [
+    "One structured escalation brief per complex ticket",
+    "A clear timeline, blocker, owner, and next action",
+    "A customer-safe summary ready to send or adapt",
+    "Root-cause and handoff patterns you can review weekly"
+  ],
+  "offer_summary": "A done-for-you escalation brief desk for B2B SaaS support teams: when a ticket gets messy, we assemble the relevant context and return a clean brief your support lead, engineer, or CSM can act on immediately.",
+  "included": [
+    "Escalation brief built from ticket, Slack, Jira, and customer-thread context",
+    "Timeline of what happened and what was already tried",
+    "Current blocker, owner recommendation, and next-step suggestion",
+    "Customer-safe summary you can send as-is or lightly edit",
+    "Weekly pattern report on top escalation themes and handoff gaps",
+    "Starter plan includes up to 30 escalations per month"
+  ],
+  "excluded": [
+    "Actually resolving the bug or shipping the fix",
+    "24/7 live incident response coverage",
+    "Handling low-complexity routine support tickets",
+    "Deep tool integrations outside the supported stack during the pilot"
+  ],
+  "process": [
+    "Fit call: confirm escalation volume, tools, and what counts as an escalation",
+    "Setup: align on brief template, access boundaries, retention, and escalation triggers",
+    "Intake: a ticket is flagged and we gather the relevant thread, notes, and current state",
+    "Delivery: you get a clean brief with timeline, blocker, owner, next action, and customer-safe update",
+    "Review: weekly summary of recurring blockers, routing gaps, and preventable escalation patterns"
+  ],
+  "pricing_headline": "$1,000/mo starter",
+  "pricing_details": "Starter includes up to 30 escalation briefs per month for one support team. Growth starts at $2,000/mo for higher volume, broader tool coverage, or multiple teams. Pilot: $299 for one week of escalation-brief coverage.",
+  "guarantee_line": "If the pilot week doesn't produce at least a few clearly better handoffs than your current process, don't continue.",
+  "faq": [
+    {
+      "q": "How do you access our support systems safely?",
+      "a": "Least-privilege access only. We can work from exported threads, shared channels, or scoped seats in your support tools. No production credentials are required, and we can operate under NDA with a defined retention window."
+    },
+    {
+      "q": "What do we need before onboarding?",
+      "a": "You need a clear definition of what counts as an escalation, enough ticket volume to justify the workflow, and one internal owner who can receive and route the briefs."
+    },
+    {
+      "q": "Will you talk directly to our customers?",
+      "a": "Not by default. The core offer is summary + handoff. We provide a customer-safe update draft, but your team decides what gets sent and when."
+    },
+    {
+      "q": "How long does onboarding take?",
+      "a": "Usually a few days. We define the brief format, supported tools, access scope, and escalation triggers, then start handling flagged tickets in the next cycle."
+    },
+    {
+      "q": "How long do you retain ticket content?",
+      "a": "Only as long as needed for the active workflow and the agreed reporting window. We can set a fixed retention period and delete raw exported context on request."
+    }
+  ],
+  "trust_basics_line": "You keep control of customer communication and prioritization. We provide the summary workflow, handoff brief, and pattern reporting\u2014not incident management or product decisions.",
+  "contact_email": "hello@example.com",
+  "privacy_policy_href": "https://example.com/privacy"
+}
