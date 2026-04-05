@@ -1,0 +1,76 @@
+{
+  "page_title": "MAP violations caught before they erode your channel",
+  "slug": "map-guard-desk",
+  "meta_description": "Done-for-you MAP monitoring and violation follow-up for ecommerce brands with reseller networks.",
+  "for_whom": "For ecommerce and omni-channel brands that sell through dealers, distributors, or resellers",
+  "hero_headline": "Catch MAP violations before they train the market to expect lower prices",
+  "hero_subheadline": "We monitor reseller listings, capture evidence, and run the follow-up workflow so your team protects margin without babysitting every SKU.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample violation log",
+  "secondary_cta_href": "mailto:hello@example.com?subject=Sample%20MAP%20violation%20log",
+  "credibility_line": "Defined seller list. Evidence-backed workflow. Client-approved policy rules. No legal posturing.",
+  "pain_paragraph": "MAP policies fail when nobody has time to check listings consistently. One underpriced seller can trigger channel anger, margin erosion, and a race to the bottom before your team even notices. Most brands have the policy-they just do not have the weekly operating system to enforce it.",
+  "before": [
+    "Someone on the team notices underpricing only after dealers complain",
+    "Screenshots live in Slack, inboxes, and random folders",
+    "Nobody can tell which sellers are repeat offenders",
+    "Price integrity keeps slipping because enforcement is inconsistent"
+  ],
+  "after": [
+    "A clean weekly violation log with screenshots and timestamps",
+    "A single view of which sellers, SKUs, and channels keep breaking MAP",
+    "Ready-to-send notice drafts and escalation history",
+    "A repeatable enforcement workflow that does not depend on founder attention"
+  ],
+  "offer_summary": "MAP Guard Desk is a done-for-you monitoring and follow-up service for brands with reseller networks. We check the channels you care about, capture evidence, maintain the log, and prepare the enforcement workflow so your team can act quickly and consistently.",
+  "included": [
+    "Weekly monitoring for an agreed SKU + seller + channel list",
+    "Timestamped evidence capture with screenshot log",
+    "Violation tracker by seller, SKU, date, and status",
+    "First-pass notice drafts for initial follow-up",
+    "Repeat-offender tracking and weekly summary",
+    "Starter analytics: which channels and SKUs are driving the most leakage"
+  ],
+  "excluded": [
+    "Legal advice or attorney-led enforcement",
+    "Marketplace takedown representation",
+    "Unlimited marketplace/channel coverage outside agreed scope",
+    "Real-time 24/7 monitoring in the starter plan"
+  ],
+  "process": [
+    "15-minute fit call to confirm category, policy rules, monitored channels, and seller list",
+    "Onboarding: define MAP rules, priority SKUs, approved promos/bundles, and escalation thresholds",
+    "Weekly monitoring run: capture evidence, log violations, and flag repeat offenders",
+    "We deliver a clean violation pack plus ready-to-send notice drafts",
+    "You review and send-or use us as the operating layer while you own the final enforcement decision"
+  ],
+  "pricing_headline": "Starter: $999/mo for one brand",
+  "pricing_details": "Includes up to 50 SKUs, 25 monitored sellers, weekly checks, violation log, and notice drafts. Pilot offer: 2-week MAP audit for $299. Larger catalogs and higher monitoring frequency priced by SKU/seller count.",
+  "guarantee_line": "If the first 14 days produce no usable violation log or channel insight, we keep working until you have one-or refund the pilot.",
+  "faq": [
+    {
+      "q": "How do you handle security and account access?",
+      "a": "We can work without marketplace logins for many workflows. If access is needed, we use least-privilege access, shared credentials where possible, and document exactly what we touch."
+    },
+    {
+      "q": "Do you send legal threats or enforce the policy for us?",
+      "a": "No. We run the monitoring, evidence, and workflow layer. Your team stays in control of final enforcement, and legal escalation stays with you or your counsel."
+    },
+    {
+      "q": "What do you need to get started?",
+      "a": "A SKU list, your MAP policy or pricing rules, your approved reseller list if you have one, and the channels/sellers you care about first."
+    },
+    {
+      "q": "How long is onboarding?",
+      "a": "Usually 2-5 business days for the starter plan. The first useful monitoring run typically happens in week 1 once scope is clear."
+    },
+    {
+      "q": "What is your retention policy?",
+      "a": "We retain active logs and evidence only as long as needed for ongoing work unless you ask for a longer archive. You can request export and deletion at any time."
+    }
+  ],
+  "trust_basics_line": "Works best when you already have a MAP policy and a defined seller/channel list. Not a fit if you want fully hands-off legal enforcement without internal ownership.",
+  "contact_email": "hello@example.com",
+  "privacy_policy_href": "#"
+}
