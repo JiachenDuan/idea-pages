@@ -1,0 +1,70 @@
+{
+  "page_title": "Pilot Closeout Desk for B2B AI & Devtools",
+  "slug": "pilot-closeout-desk",
+  "meta_description": "Done-for-you enterprise pilot operations for B2B AI and devtools teams that need cleaner POCs, faster decisions, and less founder chaos.",
+  "for_whom": "For 5-50 person B2B AI, data, infra, and devtools startups running enterprise pilots",
+  "hero_headline": "Turn messy enterprise pilots into decision-ready wins",
+  "hero_subheadline": "We run the pilot operating cadence: success criteria, stakeholder follow-up, weekly status, blocker chasing, and the final closeout memo that helps the customer say yes.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See the pilot closeout template",
+  "secondary_cta_href": "mailto:hello@pilotcloseoutdesk.com?subject=Pilot%20closeout%20template",
+  "credibility_line": "NDA-friendly. Least-privilege access. You stay technical owner, we run the operating rhythm.",
+  "pain_paragraph": "Most startup teams win the pilot, then lose control of it. Success criteria stay fuzzy, customer asks pile up in Slack, weekly updates slip, and the pilot ends with \"looks promising\" instead of a clean rollout decision.",
+  "before": [
+    "Founder, AE, and engineer all trying to run the same pilot in Slack",
+    "No clear owner for customer asks, blockers, or next steps",
+    "Success criteria are vague, so the customer can always delay a decision",
+    "Final readout gets rushed or never turns into rollout momentum"
+  ],
+  "after": [
+    "Clear kickoff doc with success criteria, owners, and timeline",
+    "Weekly status cadence with risks, blockers, and decisions tracked",
+    "Customer stakeholders get a clean, low-friction pilot experience",
+    "Final closeout memo packaged for rollout or paid expansion"
+  ],
+  "offer_summary": "A done-for-you pilot operations layer for one active enterprise POC. We install the cadence, keep both sides moving, and package the result into a decision-ready closeout instead of letting the pilot drift.",
+  "included": [
+    "Pilot kickoff template with success criteria, timeline, and stakeholder map",
+    "Shared blocker tracker and weekly status update doc",
+    "Customer follow-up and meeting coordination for pilot milestones",
+    "Final closeout memo with outcomes, open gaps, and rollout recommendation",
+    "Light instrumentation plan: pageview/demo request is yours, pilot milestone tracking is ours"
+  ],
+  "excluded": [
+    "Building custom integrations or shipping product work",
+    "Owning technical implementation inside your codebase",
+    "Procurement, legal redlines, or security questionnaire completion",
+    "24/7 support or named solutions architect coverage"
+  ],
+  "process": [
+    "15-min fit call to confirm your ICP, pilot type, and current stage",
+    "Onboarding: gather the current pilot docs, customer stakeholders, and technical owner",
+    "Install the pilot cadence: kickoff doc, weekly status, blocker tracker, and decision timeline",
+    "Run the rhythm until closeout, then ship the final memo and next-step recommendation"
+  ],
+  "pricing_headline": "Starter: $1,500 per active pilot per month",
+  "pricing_details": "Best for one pilot with one customer team, one weekly status cadence, and a standard closeout memo. Growth pilots with multiple workstreams or heavier reporting land in the $2,500-$3,000/mo range.",
+  "guarantee_line": "Pilot promise: if we do not establish a live kickoff doc, weekly status rhythm, and blocker tracker in the first 5 business days, we work free until those are in place.",
+  "faq": [
+    {
+      "q": "Do you need access to our product or production systems?",
+      "a": "Usually no. We can operate from shared docs, call notes, and customer-facing artifacts. If access is needed, use least-privilege only. No production credentials required by default."
+    },
+    {
+      "q": "What has to be true for this to work?",
+      "a": "You need a named internal technical owner and a customer-side point person. We work best when there is already a signed pilot and a rough scope, even if the execution is messy."
+    },
+    {
+      "q": "How long does onboarding take?",
+      "a": "Usually 2-3 business days. We gather the current pilot context, define success criteria, set the weekly cadence, and open the blocker tracker fast so momentum does not die."
+    },
+    {
+      "q": "How do you handle security and retention?",
+      "a": "We keep access narrow, work from approved systems, and retain only active pilot materials by default. Retention windows and deletion rules can be set in writing during onboarding."
+    }
+  ],
+  "trust_basics_line": "Not a replacement for your PM or solutions engineer. We run the operating system around the pilot so your team can focus on the technical work that actually wins the deal.",
+  "contact_email": "hello@pilotcloseoutdesk.com",
+  "privacy_policy_href": "https://example.com/privacy"
+}
