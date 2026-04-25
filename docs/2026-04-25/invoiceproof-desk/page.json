@@ -1,0 +1,71 @@
+{
+  "page_title": "InvoiceProof Desk for agencies and dev shops",
+  "slug": "invoiceproof-desk",
+  "meta_description": "Send every client invoice with a proof-of-work pack so approvals happen faster and awkward back-and-forth drops.",
+  "for_whom": "For small agencies, dev shops, MSPs, and boutique consultancies billing B2B clients",
+  "hero_headline": "Send every invoice with proof attached, not excuses later",
+  "hero_subheadline": "InvoiceProof Desk turns tickets, updates, deliverables, and call notes into a client-ready invoice backup pack in 24 hours, so approvals move faster and scope arguments shrink.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample invoice proof pack",
+  "secondary_cta_href": "mailto:hello@invoiceproofdesk.com?subject=Sample%20invoice%20proof%20pack",
+  "credibility_line": "NDA-friendly. Least-privilege access. You approve what goes to the client.",
+  "pain_paragraph": "Agencies and dev shops often finish the work, send the invoice, then get dragged into a second round of explanation before finance or the client lead will approve it. The real cost is slower cash collection, founders rewriting summaries at night, project managers digging through Slack, and avoidable scope disputes.",
+  "before": [
+    "Invoices go out with weak context and trigger back-and-forth",
+    "Account leads scramble to prove what was actually delivered",
+    "Finance waits on PMs to explain line items",
+    "Clients ask for screenshots, links, and status history after the fact"
+  ],
+  "after": [
+    "Every invoice includes a clean proof-of-work pack",
+    "Completed work, evidence links, and pending items are easy to review",
+    "Clients get a clear included vs not-included boundary",
+    "Approvals happen faster with less founder or PM involvement"
+  ],
+  "offer_summary": "A done-for-you invoice backup workflow that collects project evidence, turns it into a polished client-facing summary, and ships it alongside each invoice.",
+  "included": [
+    "InvoiceProof Pack for each billing cycle or milestone invoice",
+    "Completed work summary with ticket, deliverable, and evidence links",
+    "Included vs pending vs out-of-scope breakdown",
+    "Client-ready narrative for what changed, what shipped, and what is next",
+    "QA pass before send plus a reusable template for future cycles"
+  ],
+  "excluded": [
+    "Collections calls or dunning after invoices are overdue",
+    "Project management ownership or client delivery management",
+    "Reconstructing missing work artifacts from unsupported systems",
+    "Legal review of contracts, MSAs, or disputed billing terms"
+  ],
+  "process": [
+    "15-minute fit call to confirm billing workflow, systems, and clients",
+    "Onboarding: set up artifact checklist, access, template, and send rules",
+    "Each cycle: collect tickets, links, notes, and deliverables, then draft the proof pack within 24 hours",
+    "You review, approve, and send it with the invoice",
+    "Monthly review: tighten the template, remove recurring approval friction, and track cycle time"
+  ],
+  "pricing_headline": "Starter: $750/month",
+  "pricing_details": "Includes up to 4 invoice proof packs per month for one client account and one supported project system. Growth tier: $1,250-$1,500/month for multi-project or higher-touch accounts. Pilot offer: one invoice cycle proof pack for $300, credited toward month one.",
+  "guarantee_line": "If we miss the agreed 24-hour turnaround on a standard pack, that cycle is free.",
+  "faq": [
+    {
+      "q": "How do you access our work artifacts safely?",
+      "a": "Least-privilege access only. Usually that means a shared folder plus read-only access to one project system or exported reports. No production credentials required, and NDA is fine."
+    },
+    {
+      "q": "What needs to be true for this to work well?",
+      "a": "You need one supported source of truth for project activity, like Linear, Jira, Asana, ClickUp, Notion, or a clean weekly update doc. If work evidence is spread across random chats with no owner, we will ask you to tighten the input first."
+    },
+    {
+      "q": "What happens during onboarding?",
+      "a": "We define the client-facing pack format, billing cadence, included sections, evidence sources, and approval owner. Most onboarding can be done in under an hour if your project artifacts are reasonably organized."
+    },
+    {
+      "q": "How long do you retain our materials?",
+      "a": "Only as long as needed for active work and template improvement. Default retention is 30 days for exported working files unless you request a shorter or longer window."
+    }
+  ],
+  "trust_basics_line": "Not a fit if you want us to chase payment, rewrite the contract, or invent proof that does not exist. Best fit is teams with real work evidence but messy invoice communication.",
+  "contact_email": "hello@invoiceproofdesk.com",
+  "privacy_policy_href": "https://example.com/privacy"
+}
