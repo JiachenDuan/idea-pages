@@ -1,0 +1,76 @@
+{
+  "page_title": "QuoteClose Desk for Specialty Contractors",
+  "slug": "quoteclose-desk-specialty-contractors",
+  "meta_description": "Done-for-you estimate follow-up for specialty contractors so more sent quotes turn into signed jobs.",
+  "for_whom": "For specialty contractors sending high-ticket estimates without a reliable follow-up system",
+  "hero_headline": "Turn sent estimates into signed jobs without the owner chasing leads at night",
+  "hero_subheadline": "QuoteClose Desk runs the estimate follow-up cadence for deck builders, fence companies, epoxy flooring crews, landscapers, and similar contractors so warm quotes stop going cold.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample win/loss report",
+  "secondary_cta_href": "mailto:hello@example.com?subject=QuoteClose%20sample",
+  "credibility_line": "Works inside your existing CRM or spreadsheet. Client-approved scripts only. We run the follow-up workflow, not your sales promises.",
+  "pain_paragraph": "Most contractors do the hard part already: pay for the lead, drive out, inspect the job, and build the estimate. Then the estimate sits. The owner gets busy on jobs, the estimator assumes someone else will follow up, and the customer hires the company that simply stayed in touch. QuoteClose Desk fixes that leak with a clean, polite follow-up system that keeps warm quotes moving.",
+  "before": [
+    "Quotes go out, then sit in a CRM, inbox, or spreadsheet with no clear next step",
+    "Owners send awkward one-off follow-ups at night after finishing jobsite work",
+    "Nobody tracks whether the customer is stalled on price, financing, timing, or a competitor bid",
+    "You cannot see which estimators, lead sources, or quote types actually convert best"
+  ],
+  "after": [
+    "Every new estimate enters a clear 7-21 day follow-up cadence with next step and owner",
+    "Customers get fast, polite reminders before they mentally move on",
+    "Price objections, financing concerns, and timing blockers get logged instead of guessed",
+    "You get a weekly won/lost report that shows where revenue is leaking and what to fix"
+  ],
+  "offer_summary": "A done-for-you estimate follow-up desk for specialty contractors: we ingest quotes, run the outbound cadence, surface hot leads, log objections, and give you a simple close-rate dashboard without forcing a new sales process.",
+  "included": [
+    "Setup for one primary niche or service line and one agreed follow-up playbook",
+    "7-21 day follow-up cadence across SMS, email, and optional call-task reminders",
+    "Shared pipeline tracker with quote status, last touch, next action, and objection notes",
+    "Weekly owner summary with won jobs, dead quotes, open blockers, and response-time gaps",
+    "Starter scripts for price, timing, financing, and competitor comparison conversations",
+    "Pilot option for one stale quote list or one active quote pipeline"
+  ],
+  "excluded": [
+    "Closing calls that require custom pricing negotiation or on-site rescoping",
+    "Answering technical install questions your team has not pre-approved",
+    "Running ads, generating leads, or replacing your estimator",
+    "24/7 inbound answering or dispatch"
+  ],
+  "process": [
+    "Fit call: confirm job types, average ticket size, quote volume, and who approves scripts or special offers",
+    "Setup: connect your quote source, lock the follow-up cadence, define hot-lead rules, and create the objection tracker",
+    "Run the desk: every estimate gets the right reminders, replies are logged, and anything urgent is escalated fast",
+    "Weekly review: you get a clear won/lost report, stuck quotes, and the top objections hurting close rate",
+    "Refine: tighten scripts, add financing prompts, and improve the cadence by job type or lead source"
+  ],
+  "pricing_headline": "$999/mo starter or $299 stale-quote pilot",
+  "pricing_details": "Starter covers one service line, one pipeline, and up to 40 active estimates per month. Higher-volume or multi-channel plans start at $1,500/mo.",
+  "guarantee_line": "If the pilot does not create a clearly better follow-up rhythm and owner visibility than your current process, do not continue.",
+  "faq": [
+    {
+      "q": "How do you access our customer and quote data safely?",
+      "a": "We use least-privilege access only: usually a CRM seat, shared inbox, texting tool, or CSV export. No accounting access, no bank access, and no promises to customers outside your approved scripts."
+    },
+    {
+      "q": "What has to be in place before starting?",
+      "a": "You need a clear quote list, one person who can approve pricing or exceptions, and a basic rule for when a lead is still worth chasing. Your CRM can be messy; a spreadsheet is fine to start."
+    },
+    {
+      "q": "What is included versus excluded?",
+      "a": "Included: follow-up cadence, objection logging, hot-lead surfacing, and weekly reporting. Excluded: custom sales negotiation, site visits, rescoping, lead generation, or replacing your estimator."
+    },
+    {
+      "q": "How long does onboarding take?",
+      "a": "Usually 2-5 days. We review one recent batch of quotes, finalize the scripts and escalation rules, then start with either stale quotes or the next live quote batch."
+    },
+    {
+      "q": "How long do you retain lead and quote data?",
+      "a": "Only as long as needed for active follow-up and the agreed reporting window. We can work inside a fixed retention period and export final notes back to your system before deleting working files."
+    }
+  ],
+  "trust_basics_line": "You keep control of pricing, job scope, and customer commitments. We run the follow-up machine so warm estimates stop dying quietly.",
+  "contact_email": "hello@example.com",
+  "privacy_policy_href": "https://example.com/privacy"
+}
