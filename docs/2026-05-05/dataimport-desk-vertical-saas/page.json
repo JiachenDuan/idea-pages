@@ -1,0 +1,71 @@
+{
+  "page_title": "DataImport Desk for Vertical SaaS",
+  "slug": "dataimport-desk-vertical-saas",
+  "meta_description": "Done-for-you customer spreadsheet cleanup, field mapping, and test imports so vertical SaaS teams reach go-live faster.",
+  "for_whom": "For vertical SaaS teams whose new customers start onboarding with messy CSV exports",
+  "hero_headline": "Turn messy customer spreadsheets into a clean go-live in days, not weeks",
+  "hero_subheadline": "We clean source files, map fields, run a test import, and hand your team a customer-ready issue list so onboarding stops stalling on CSV chaos.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample import map",
+  "secondary_cta_href": "mailto:hello@yourdomain.com?subject=Sample%20import%20map",
+  "credibility_line": "Least-privilege access. No production creds required. You approve the final import before anything goes live.",
+  "pain_paragraph": "New customers blame your product when onboarding drags, even if the real problem is duplicate rows, broken CSV exports, missing IDs, and fields that do not match your schema. Your customer success team burns time in spreadsheets, engineers get pulled into cleanup, and signed revenue sits in limbo instead of reaching first value.",
+  "before": [
+    "Signed customers stall because their source export is messy or incomplete",
+    "CS and onboarding leads spend calls fixing column names and duplicate rows",
+    "Engineers get pinged for one-off import questions and edge cases",
+    "Go-live dates slip and the customer thinks your product is hard to adopt"
+  ],
+  "after": [
+    "A standard intake for source files, required fields, and import ownership",
+    "Cleaned data, field mapping, and validation issues before go-live day",
+    "A test import plus a short blocker list your team can send to the customer",
+    "Faster onboarding with fewer engineer interruptions and fewer surprise errors"
+  ],
+  "offer_summary": "DataImport Desk is a done-for-you import operations layer for vertical SaaS: we collect the source files, clean and normalize them, map fields into your schema, run a preflight/test import, and hand off a clean final checklist to your team.",
+  "included": [
+    "Source-file intake checklist and required-field review",
+    "CSV cleanup: duplicate detection, formatting normalization, and basic row validation",
+    "Field mapping into one destination schema with documented assumptions",
+    "One test import or import-ready validation pass plus issue log",
+    "Customer-ready summary of blockers, fixes needed, and next steps"
+  ],
+  "excluded": [
+    "Custom ETL builds, direct database migrations, or production engineering work",
+    "Net-new schema design or product configuration consulting",
+    "Ongoing customer success ownership after the import is accepted",
+    "Claims about data correctness beyond the provided source files and agreed rules"
+  ],
+  "process": [
+    "Fit call: confirm source system, destination schema, volume, and SLA",
+    "Onboarding: collect sample export, required fields, and import success criteria",
+    "Cleanup + mapping: normalize rows, flag exceptions, and document field rules",
+    "Validation: run a test import or preflight check and produce a short blocker list",
+    "Handoff: your team approves the final file and sends the customer the go-live next steps"
+  ],
+  "pricing_headline": "Starter: $1,500/mo for up to 3 active imports",
+  "pricing_details": "Includes intake, cleanup, one destination schema, a test import/preflight pass, and a customer-ready issue summary. Pilot offer: $500 for one sample cleanup + import map, credited toward month 1.",
+  "guarantee_line": "If we cannot deliver a cleaned sample file + field map within 5 business days for the pilot, the pilot is free.",
+  "faq": [
+    {
+      "q": "How do you handle security and customer data access?",
+      "a": "We work from least-privilege shared folders or exports, not production credentials. Access can be time-boxed, NDA-backed, and limited to the exact files needed for the import."
+    },
+    {
+      "q": "What has to be true before we start?",
+      "a": "You need one destination schema, one named internal owner, and a sample source export or clear file format. We start with CSV-based workflows first, not direct database migrations."
+    },
+    {
+      "q": "What does onboarding look like?",
+      "a": "Usually one short kickoff, a source-file intake checklist, and agreement on required fields and import success criteria. After that, most communication happens through a simple blocker list and approval loop."
+    },
+    {
+      "q": "What is your retention policy?",
+      "a": "By default, we keep working files only for the active engagement window plus a short agreed retention period, then delete them. If you need a stricter retention window, we can set that up up front."
+    }
+  ],
+  "trust_basics_line": "Best fit for vertical SaaS teams with repeatable CSV import flows. Not a fit if every customer requires custom ETL or direct production database work.",
+  "contact_email": "hello@yourdomain.com",
+  "privacy_policy_href": "https://yourdomain.com/privacy"
+}
