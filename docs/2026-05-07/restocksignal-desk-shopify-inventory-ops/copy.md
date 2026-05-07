@@ -1,0 +1,59 @@
+# RestockSignal Desk: weekly reorder plans for Shopify brands
+
+**For:** For Shopify brands with 20-300 SKUs and real stockout risk
+
+## Hero
+- Headline: Know what to reorder each week before your bestsellers stock out
+- Subheadline: We turn your Shopify + inventory exports into a weekly reorder plan, stockout-risk list, and supplier follow-up sheet your team can actually use.
+
+## Pain
+Most growing Shopify brands do not have a clean weekly inventory rhythm. One hero SKU slips, ads keep spending, rush freight eats margin, and the founder is stuck asking suppliers for ETAs instead of running the business.
+
+## Before
+- You notice stockout risk after inventory is already tight
+- Reorders live across spreadsheets, Slack, inboxes, and supplier chats
+- POs are open, but nobody knows what will actually land when
+- Rush freight and broken ad momentum quietly destroy margin
+
+## After
+- One weekly reorder brief with clear next actions
+- SKU-level weeks-of-cover and stockout-risk flags
+- Recommended reorder dates and quantities for supported SKUs
+- Supplier chase sheet with missing ETA and PO follow-ups
+
+## Offer
+A done-for-you weekly inventory control desk for Shopify brands: we ingest your exports, flag what is at risk, recommend what to reorder next, and keep supplier follow-through from falling through the cracks.
+
+### Included
+- Weekly Shopify + inventory export review
+- SKU risk scoring and weeks-of-cover snapshot
+- Recommended reorder quantities and target order dates for supported SKUs
+- Open PO tracker cleanup and supplier follow-up sheet
+- One owner-ready weekly action brief with top risks and next steps
+
+### Not included
+- ERP implementation or data warehouse setup
+- Guaranteed forecast accuracy or demand-planning for every channel edge case
+- Direct supplier negotiation or placing POs on your behalf unless separately scoped
+
+## Process
+1. 15-minute fit call to confirm SKU count, channels, lead times, and current tools
+2. Onboarding: collect exports, open PO tracker, and current reorder rules
+3. Week 1: build your stockout-risk baseline and first reorder brief
+4. Ongoing: weekly review, reorder recommendations, and supplier chase updates
+5. Monthly: tighten reorder rules and flag recurring data gaps slowing decisions
+
+## Pricing
+Starter: $999/month for one Shopify storefront
+
+Includes up to 75 active SKUs, one weekly review, and one weekly action brief. Higher tiers are based on SKU count, channel complexity, and PO volume. Pilot offer: $400 for an inventory risk audit + first reorder plan.
+
+## Guarantee
+If the first weekly brief is not delivered within 5 business days of receiving the required exports, we do the pilot free.
+
+## FAQ
+- **How do you access our data safely?**: We start with read-only exports from Shopify and your inventory or PO tracker. No store admin, bank, or ad account access is required for the starter offer. NDA is fine.
+- **What do you need to start?**: At minimum: Shopify sales data, current on-hand inventory by SKU, open purchase orders or supplier ETA notes, and lead times for the top products you care about.
+- **How long does onboarding take?**: Usually 2-3 business days once we have the exports and your current reorder logic. The first useful brief should land in week 1, not after a long setup project.
+- **How long do you retain our files?**: Only as long as needed for active work unless you ask for a longer history. We can work from a dedicated shared folder and delete exported files on a defined retention schedule.
+- **Is this a fit if we have wholesale, bundles, or strong seasonality?**: Sometimes, but only if the inputs are clean enough. We prefer starting with one storefront and a supported SKU subset before taking on bundle-heavy or multi-channel complexity.
