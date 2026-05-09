@@ -1,0 +1,76 @@
+{
+  "page_title": "Customer Slack Desk for B2B SaaS",
+  "slug": "customer-slack-desk",
+  "meta_description": "Done-for-you triage and SLA management for shared customer Slack or Teams channels, without dragging founders and engineers into constant chat firefighting.",
+  "for_whom": "For B2B SaaS, AI, infra, and developer-tool teams running shared customer Slack or Teams channels",
+  "hero_headline": "Run customer Slack channels without founder ping-pong",
+  "hero_subheadline": "We triage shared customer channels, route issues to the right owner, maintain follow-up SLAs, and send a weekly risk + expansion summary.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "Get a redacted weekly summary sample",
+  "secondary_cta_href": "mailto:hello@example.com?subject=Customer%20Slack%20Desk%20sample",
+  "credibility_line": "Least-privilege access. Named escalation paths. You approve channel norms and escalation rules upfront.",
+  "pain_paragraph": "Shared customer Slack or Teams channels start as a premium experience, then quietly turn into an unowned queue of bugs, onboarding asks, random questions, and churn signals. Engineers get dragged into reactive support, follow-ups slip, and nobody has a clean view of what is urgent, blocked, or growing into renewal risk.",
+  "before": [
+    "Customer messages sit in Slack until the right person happens to notice",
+    "Founders and engineers get pulled into ad hoc support all day",
+    "Nobody knows which threads are blocked, urgent, or renewal-sensitive",
+    "Important asks get answered inconsistently or lost in the scrollback"
+  ],
+  "after": [
+    "Every thread is triaged, tagged, and assigned to the right owner",
+    "Customers get faster, cleaner follow-up without overpromising",
+    "Leadership gets a weekly blocker, churn-risk, and expansion-signal summary",
+    "Shared channels feel high-touch without consuming senior people all day"
+  ],
+  "offer_summary": "Customer Slack Desk is a done-for-you customer-channel operations layer: we monitor shared Slack or Teams channels, triage each thread, route it to the right internal owner, keep follow-ups moving, and surface the patterns that matter for renewals and expansion.",
+  "included": [
+    "Monitoring and triage for up to 10 shared customer channels",
+    "Thread tagging by issue type, urgency, and account risk",
+    "Response-SLA tracker with follow-up reminders",
+    "Escalation matrix for support, onboarding, bugs, and commercial asks",
+    "Weekly summary with blockers, repeated asks, churn risks, and upsell signals",
+    "One-time channel audit and triage playbook setup"
+  ],
+  "excluded": [
+    "24/7 incident response or on-call coverage",
+    "Hands-on technical troubleshooting beyond triage and routing",
+    "Writing product fixes or implementing customer requests",
+    "Unlimited channels, unlimited stakeholders, or custom reporting outside plan scope"
+  ],
+  "process": [
+    "15-minute fit call to confirm channel volume, ICP, SLA expectations, and internal owners",
+    "Set up channel rules, escalation paths, tag taxonomy, and weekly summary format",
+    "Run daily triage: tag threads, route requests, chase follow-ups, and keep the queue clean",
+    "Send a weekly summary with open blockers, churn risks, repeated asks, and expansion signals",
+    "Refine the playbook as patterns emerge so more of the work can be delegated or automated"
+  ],
+  "pricing_headline": "Starter: $1,500/mo for up to 5 shared channels",
+  "pricing_details": "Includes weekday triage, SLA follow-up tracking, weekly summary, and one channel-audit setup. Growth plan: $2,500/mo for up to 10 shared channels and deeper reporting. Pilot offer: $500 for a 1-week channel audit + managed trial, credited toward month 1.",
+  "guarantee_line": "If we cannot deliver a usable triage workflow and first weekly summary within 7 days of kickoff, we keep working free until we do.",
+  "faq": [
+    {
+      "q": "How do you access our customer channels safely?",
+      "a": "Least-privilege access only. We join only the channels you assign, follow your internal escalation rules, and keep exported notes limited to the weekly summary and approved working docs."
+    },
+    {
+      "q": "What needs to be true before onboarding works?",
+      "a": "You need named internal owners for support, product/engineering, and commercial escalations, plus a clear definition of what we can answer directly versus what must be routed."
+    },
+    {
+      "q": "Do you respond directly to customers?",
+      "a": "Yes, if you want that model. We can either triage silently behind the scenes or operate as the first response layer using approved tone, scope, and escalation rules."
+    },
+    {
+      "q": "How long do you retain customer-channel data?",
+      "a": "Only as long as needed for active work and agreed reporting. We recommend a short retention window, store summaries rather than full exports whenever possible, and delete working artifacts on request."
+    },
+    {
+      "q": "Is this a fit if we need full support coverage?",
+      "a": "Usually no. This works best when you need ownership, triage, routing, and visibility in shared channels\u2014not a 24/7 outsourced support team or deep technical implementation bench."
+    }
+  ],
+  "trust_basics_line": "Instrumentation from day 1: pageview, CTA click, form submit, booked call. Optional NDA. Clear scope limits. No production access required.",
+  "contact_email": "hello@example.com",
+  "privacy_policy_href": "https://example.com/privacy"
+}
