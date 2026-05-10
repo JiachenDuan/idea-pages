@@ -1,0 +1,76 @@
+{
+  "page_title": "Final Payment Closeout Desk for Specialty Contractors",
+  "slug": "closeoutbinder-desk-specialty-contractors",
+  "meta_description": "Done-for-you project closeout packets for specialty contractors so final payment is not stuck behind missing O&M manuals, warranties, and turnover docs.",
+  "for_whom": "For 5-50 person specialty contractors running commercial jobs",
+  "hero_headline": "Get final-payment closeout packets out without turning PMs into document janitors",
+  "hero_subheadline": "We collect missing closeout docs, build the GC-ready turnover binder, and keep the blocker list moving until the package is accepted.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample closeout checklist",
+  "secondary_cta_href": "mailto:hello@closeoutbinderdesk.com?subject=Sample%20closeout%20checklist",
+  "credibility_line": "NDA-friendly. Least-privilege access. You approve the final package before it goes out.",
+  "pain_paragraph": "Your team already finished the hard part in the field, but retention and final payment still get stuck because closeout docs are scattered across inboxes, vendor PDFs, job folders, and foremen's phones. PMs burn evenings chasing O&M manuals, warranties, startup sheets, and as-builts instead of moving the next project.",
+  "before": [
+    "Completed jobs sit in \u2018almost done\u2019 for weeks",
+    "PMs chase vendors and field crews for missing PDFs",
+    "Document versions are inconsistent or mislabeled",
+    "GCs reject packages because one required item is missing"
+  ],
+  "after": [
+    "One clear required-doc tracker per project",
+    "Twice-weekly blocker follow-up until items land",
+    "Clean turnover binder packaged to the GC's format",
+    "Faster acceptance and fewer final-payment delays"
+  ],
+  "offer_summary": "A done-for-you closeout workflow for specialty contractors: we gather the required documents, maintain the missing-items list, assemble the owner/GC-ready package, and keep closeout moving until acceptance.",
+  "included": [
+    "Closeout intake for up to 3 active projects",
+    "Required-doc checklist customized by trade and project type",
+    "Missing-items tracker with twice-weekly follow-up",
+    "Document naming, version cleanup, and package assembly",
+    "Owner/GC-ready turnover binder in PDF or folder format",
+    "Weekly summary of blockers, risks, and projects nearing acceptance"
+  ],
+  "excluded": [
+    "Creating new as-builts or redesigning drawings",
+    "Field rework, commissioning, or site visits",
+    "Legal review of contract language",
+    "Direct submission into proprietary portals that require full PM ownership unless explicitly scoped"
+  ],
+  "process": [
+    "15-min fit call to review trade, project volume, and current closeout backlog",
+    "Project intake: required docs, owner format, open blockers, and named internal owner",
+    "We chase missing items, clean filenames/versions, and build the package",
+    "You approve the final binder, then we hand off a clean submission-ready closeout pack",
+    "Weekly review keeps new projects from slipping into the same backlog"
+  ],
+  "pricing_headline": "Starts at $1,000/mo",
+  "pricing_details": "Starter plan covers up to 3 active projects with twice-weekly follow-up and one weekly summary. One-off closeout cleanup projects start around $500 per package depending on trade complexity and required artifacts.",
+  "guarantee_line": "Pilot option: first closeout cleanup package in 7 days, or we keep working at no extra fee until the agreed binder is delivered.",
+  "faq": [
+    {
+      "q": "How do you handle access and document security?",
+      "a": "We use least-privilege access only: shared folder, email thread, or a limited project workspace. No accounting logins or broad system access required. NDA is fine."
+    },
+    {
+      "q": "What do you need from us to get started?",
+      "a": "One active project, the contract closeout requirements or submittal list, current document folder, and one named PM or coordinator who can unblock edge cases."
+    },
+    {
+      "q": "How long does onboarding take?",
+      "a": "Usually 1-2 business days to set up the checklist, naming rules, and first project tracker. We can often start cleanup work the same week."
+    },
+    {
+      "q": "What if a vendor or foreman still has not sent the missing docs?",
+      "a": "We keep the blocker tracker current and chase the named source, but we do not invent missing artifacts. You always see exactly what is still open and who owns it."
+    },
+    {
+      "q": "What is your retention policy?",
+      "a": "We retain only the working files needed for active projects unless you ask for a longer archive window. On offboarding, we return organized files and delete our working copies on the agreed schedule."
+    }
+  ],
+  "trust_basics_line": "Not legal or engineering advice. We run the document workflow, package assembly, and follow-up layer so your team can close projects cleanly.",
+  "contact_email": "hello@closeoutbinderdesk.com",
+  "privacy_policy_href": "https://example.com/privacy"
+}
