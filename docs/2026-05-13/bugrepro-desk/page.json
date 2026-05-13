@@ -1,0 +1,75 @@
+{
+  "page_title": "Bug reports to reproducible tickets in 24 hours",
+  "slug": "bugrepro-desk",
+  "meta_description": "Done-for-you bug triage and reproduction for B2B SaaS teams that need engineer-ready tickets instead of vague customer escalations.",
+  "for_whom": "For B2B SaaS, AI, and developer-tool teams with messy technical escalations",
+  "hero_headline": "Turn vague customer bug reports into reproducible tickets in 24 hours",
+  "hero_subheadline": "We collect the missing context, reproduce the issue when possible, and hand engineering a clean ticket with severity, steps, evidence, and a customer-safe update.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample triage packet",
+  "secondary_cta_href": "mailto:hello@bugreprodesk.com?subject=Sample%20triage%20packet",
+  "credibility_line": "Least-privilege access. Sandbox-first repro. You approve customer-facing language.",
+  "pain_paragraph": "When support escalates a bug without steps, logs, environment details, or impact, engineering loses hours reconstructing the problem before real debugging even starts. That slows response times, annoys important customers, and turns senior ICs into part-time support detectives.",
+  "before": [
+    "Support posts 'customer says it's broken' with no reliable repro",
+    "Engineers jump into Slack threads just to ask basic follow-up questions",
+    "High-value accounts wait while teams argue about severity",
+    "Bugs sit open because nobody owns the messy middle between report and ticket"
+  ],
+  "after": [
+    "Every escalation gets a standard intake and severity pass",
+    "Repro attempts, screenshots, and missing-data requests happen fast",
+    "Engineering receives a ticket with clear steps, evidence, and impact",
+    "Support gets a customer-safe status note instead of guessing"
+  ],
+  "offer_summary": "Bug Repro Triage Desk is a done-for-you bug intake and reproduction workflow for teams that need cleaner engineering handoffs without hiring a full-time technical support ops person.",
+  "included": [
+    "Intake checklist for browser, API, auth, and integration issues",
+    "First-pass repro attempt in a sandbox or approved test environment",
+    "Engineer-ready ticket with severity, impact, repro steps, and open questions",
+    "Customer-safe update snippet for support or CS to send",
+    "Weekly pattern summary: repeated issue types, slowest blockers, and top missing inputs"
+  ],
+  "excluded": [
+    "Direct production debugging or code fixes",
+    "24/7 incident response or on-call coverage",
+    "End-user support inbox ownership",
+    "Claims not supported by evidence or approved access"
+  ],
+  "process": [
+    "15-min fit call to confirm stack, queue shape, and access boundaries",
+    "Onboarding: define supported issue types, severity rubric, and ticket template",
+    "For each escalation: gather missing context, run repro, capture evidence, and prepare handoff",
+    "Send an engineer-ready ticket plus a customer-safe status note",
+    "Review weekly patterns and tighten the intake workflow so fewer bugs arrive vague"
+  ],
+  "pricing_headline": "$1,500/mo starter for up to 20 escalations",
+  "pricing_details": "Starter includes up to 20 escalated bug triages/month with a 24-business-hour first pass. Growth tier: $2,500/mo for up to 40 escalations and broader integration coverage. One-week pilot: $500, credited toward month one.",
+  "guarantee_line": "If we miss the first-pass SLA on an in-scope bug, that triage is credited back.",
+  "faq": [
+    {
+      "q": "How do you access our systems safely?",
+      "a": "We work sandbox-first with least-privilege access: test accounts, staging links, reproducible sample data, and time-boxed credentials when needed. No production changes, and no always-on access."
+    },
+    {
+      "q": "What do you need before this works well?",
+      "a": "A named support or CS owner, a place where escalations land, and an approved test environment or dummy account path for repro. We can start lightweight if you already have a support inbox and ticketing tool."
+    },
+    {
+      "q": "How long does onboarding take?",
+      "a": "Usually 2-3 business days to define the intake form, severity rules, supported issue types, and handoff template. After that, we can start triaging live escalations."
+    },
+    {
+      "q": "How long do you retain screenshots or logs?",
+      "a": "Only as long as needed for active triage unless you ask for a longer retention window. Default is short-lived artifact storage with deletion after the issue is handed off or closed."
+    },
+    {
+      "q": "Are you replacing our engineers or support team?",
+      "a": "No. We own the messy middle between vague report and usable ticket. Your team still owns technical diagnosis, fixes, and customer relationship decisions."
+    }
+  ],
+  "trust_basics_line": "NDA-friendly. Least-privilege access. Clear retention window. Not a substitute for incident response or debugging ownership.",
+  "contact_email": "hello@bugreprodesk.com",
+  "privacy_policy_href": "https://example.com/privacy"
+}
