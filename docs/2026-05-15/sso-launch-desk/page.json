@@ -1,0 +1,75 @@
+{
+  "page_title": "Get customer SSO live in 7 days without burning engineer time",
+  "slug": "sso-launch-desk",
+  "meta_description": "Done-for-you SSO launch coordination for B2B SaaS teams that need enterprise customer SSO turned on fast.",
+  "for_whom": "For 5-100 person B2B SaaS teams selling to enterprise customers with SSO requirements",
+  "hero_headline": "Turn customer SSO live in 7 days \u2014 without dragging your senior engineers into endless IT threads",
+  "hero_subheadline": "SSO Launch Desk runs the checklist, metadata exchange, role mapping, testing, and customer follow-through so your enterprise account goes live faster.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See the go-live checklist",
+  "secondary_cta_href": "mailto:hello@example.com?subject=SSO%20Go-Live%20Checklist",
+  "credibility_line": "Least-privilege access. You keep control of auth settings. We coordinate the workflow and documentation.",
+  "pain_paragraph": "You already support SSO in product, but each enterprise customer setup still turns into a slow project: metadata in one thread, role questions in another, test users blocked, and a senior engineer wasting hours playing coordinator. The deal is sold, but go-live drags because nobody owns the messy middle.",
+  "before": [
+    "A signed enterprise deal still waits 1-2 weeks on SSO setup",
+    "Customer IT asks scattered questions across email and Slack",
+    "Senior engineers babysit SAML metadata, redirects, and role mappings",
+    "Nobody has a clear checklist, owner, or test plan"
+  ],
+  "after": [
+    "One owner for the SSO setup workflow",
+    "A clean IdP intake, metadata exchange, and role-mapping doc",
+    "A shared test plan with blockers surfaced fast",
+    "A go-live packet the customer and your team can both trust"
+  ],
+  "offer_summary": "SSO Go-Live Desk is a done-for-you launch workflow for one customer deployment. We collect the right inputs, keep the customer IT admin moving, document mapping decisions, run the test checklist, and hand off a clean go-live packet.",
+  "included": [
+    "Customer IdP intake checklist (Okta, Entra ID/Azure AD, Google Workspace, OneLogin, generic SAML/OIDC)",
+    "Metadata exchange tracker and configuration handoff notes",
+    "Role / group mapping worksheet with named owners",
+    "Shared test plan for login, fallback, and JIT / provisioning behaviors",
+    "Twice-weekly blocker summary until go-live",
+    "Final go-live packet with settings, decisions, and open follow-ups"
+  ],
+  "excluded": [
+    "Custom auth engineering or writing new SSO features",
+    "Security policy drafting or questionnaire work",
+    "Production admin ownership after handoff",
+    "Migration of legacy identity architecture"
+  ],
+  "process": [
+    "15-minute fit call to confirm your product already supports the target SSO flow",
+    "Kickoff + intake: collect customer IdP details, owners, environment info, and deadlines",
+    "Run metadata exchange, role mapping, and test-plan coordination with clear next steps",
+    "Surface blockers fast, keep both sides moving, and package the final go-live handoff"
+  ],
+  "pricing_headline": "$1,500 starter per deployment",
+  "pricing_details": "Starter covers one customer SSO deployment with one IdP, one test cycle, and up to 2 weeks of coordination. SCIM, advanced role mapping, and multi-environment setups are scoped separately. Optional ongoing identity support retainer starts at $500/mo.",
+  "guarantee_line": "If we discover in week 1 that the issue is really missing product capability\u2014not setup coordination\u2014we stop and credit unused work toward a technical implementation partner.",
+  "faq": [
+    {
+      "q": "How do you handle security and access?",
+      "a": "Least-privilege only. We can work from screenshots, exported metadata, shared docs, and temporary admin access when necessary. No production credentials are stored outside approved systems."
+    },
+    {
+      "q": "What prerequisites need to be true?",
+      "a": "Your product must already support the target SSO flow in a basically working state. You also need one internal technical owner and one customer-side admin who can answer IdP questions."
+    },
+    {
+      "q": "How long does onboarding take?",
+      "a": "Usually less than 1 business day. We start with a short kickoff, an intake form, and a shared checklist so the first customer-facing message goes out quickly."
+    },
+    {
+      "q": "Do you support SCIM or provisioning?",
+      "a": "Yes, when the product already supports it. We can coordinate mapping, test cases, and handoff, but we do not build missing provisioning features."
+    },
+    {
+      "q": "What is your retention policy?",
+      "a": "By default, we keep only the artifacts needed for the active setup and delete working copies after handoff unless you ask us to retain a reusable playbook longer."
+    }
+  ],
+  "trust_basics_line": "You remain the source of truth for auth behavior and final configuration. We run the coordination, documentation, and go-live workflow.",
+  "contact_email": "hello@example.com",
+  "privacy_policy_href": "#"
+}
