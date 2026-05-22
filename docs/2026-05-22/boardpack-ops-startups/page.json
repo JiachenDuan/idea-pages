@@ -1,0 +1,73 @@
+{
+  "page_title": "Board Packs in 5 Business Days",
+  "slug": "boardpack-ops-startups",
+  "meta_description": "Done-for-you monthly investor updates and lightweight board packs for seed-to-Series B startups.",
+  "for_whom": "For seed-to-Series B startup founders and chiefs of staff",
+  "hero_headline": "Send a sharp investor update and board pack every month without the founder scramble",
+  "hero_subheadline": "We gather the inputs, chase missing numbers, draft the narrative, and hand you a clean pack within 5 business days.",
+  "primary_cta_text": "Book a 15-min fit call",
+  "primary_cta_href": "https://calendly.com/",
+  "secondary_cta_text": "See a sample monthly pack outline",
+  "secondary_cta_href": "mailto:hello@yourdomain.com?subject=Sample%20monthly%20pack",
+  "credibility_line": "Founder-friendly. Least-privilege access. You approve every metric and narrative before anything is sent.",
+  "pain_paragraph": "Monthly investor updates and board prep usually happen late at night because the numbers live in different tools, the narrative is fuzzy, and no one actually owns the final assembly. That means delayed updates, inconsistent reporting, and stressful board meetings that feel harder than they should.",
+  "before": [
+    "Investor updates slip because nobody has uninterrupted time to pull the whole story together",
+    "Metrics live across Stripe, product analytics, payroll notes, hiring docs, and Slack threads",
+    "Board decks get rebuilt from scratch with last-minute number hunts",
+    "Founders send vague updates or skip them when the month gets messy"
+  ],
+  "after": [
+    "A repeatable monthly reporting cadence with clear owners and deadlines",
+    "One clean KPI snapshot with the numbers that actually matter",
+    "A crisp narrative: wins, misses, risks, asks, and next decisions",
+    "A board/investor-ready pack delivered within 5 business days"
+  ],
+  "offer_summary": "BoardPack Ops is a done-for-you monthly reporting workflow for startups: we collect source inputs, draft the investor update or lightweight board pack, flag gaps, and hand you a version ready to review and send.",
+  "included": [
+    "Monthly reporting checklist + source-of-truth map for your KPIs",
+    "Metric gathering from your existing tools and exports",
+    "Drafted investor update or lightweight board pack narrative",
+    "Highlights, lowlights, risks, asks, and decision prompts",
+    "One revision round after founder/COS review"
+  ],
+  "excluded": [
+    "Fundraising strategy or investor relations outreach",
+    "Accounting cleanup or building a full finance model from scratch",
+    "Deep bespoke analysis outside the agreed reporting template"
+  ],
+  "process": [
+    "15-min fit call to confirm stage, metrics, and current reporting rhythm",
+    "Onboarding: map your KPI sources, template, approvers, and monthly deadline",
+    "Each month: collect inputs, chase gaps, and draft the pack within 5 business days",
+    "You review, approve, and send with a clean archive for next month"
+  ],
+  "pricing_headline": "$1,500/mo starter",
+  "pricing_details": "Starter includes one monthly investor update or lightweight board pack for one company, one reporting template, and one revision cycle. More stakeholder complexity or custom analytics can be scoped separately.",
+  "guarantee_line": "If we miss the agreed monthly delivery window, we credit 25% of that month\u2019s fee.",
+  "faq": [
+    {
+      "q": "How do you access our metrics and board materials safely?",
+      "a": "Least-privilege access only: shared folders, exports, or view-only dashboards where possible. No production credentials required. Optional NDA and clear access revocation at any time."
+    },
+    {
+      "q": "What do you need from us before you can start?",
+      "a": "A named owner, your current reporting template if one exists, and access to the few systems that hold the numbers or notes you already use. We work best when the source data is already available somewhere, even if it is messy."
+    },
+    {
+      "q": "How long does onboarding take?",
+      "a": "Usually 60-90 minutes total across one kickoff and one async follow-up. After that, the monthly cycle should feel lightweight."
+    },
+    {
+      "q": "Do you keep our materials forever?",
+      "a": "No. We keep only what is needed for active work and agreed archive history. Retention windows can be set up front, and we can delete materials on request."
+    },
+    {
+      "q": "Are you replacing our CFO, finance lead, or chief of staff?",
+      "a": "No. We run the reporting assembly workflow and first-pass drafting. Final numbers, judgment calls, and investor communication stay with your team."
+    }
+  ],
+  "trust_basics_line": "Not financial, fundraising, or legal advice. You remain the source of truth for company performance and investor communications.",
+  "contact_email": "hello@yourdomain.com",
+  "privacy_policy_href": "https://yourdomain.com/privacy"
+}
